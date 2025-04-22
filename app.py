@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("científico.png")
+
 # Constante universal de los gases ideales
 R = 0.0821  # L·atm/mol·K
 
